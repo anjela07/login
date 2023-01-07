@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    background-image: url(https://gas-kvas.com/uploads/posts/2022-06/1655447947_1-gas-kvas-com-p-bishkek-priroda-foto-1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    padding: 180px 50px ;
+    
+}
+#email{
+    color: rgb(100, 57, 0);
+    font-size: 25px;
+    margin-left: 470px;
+    border-radius: 20px;
+    background-color:rgb(74, 62, 235);
+    margin-top: 90px;
+}
+#email:hover{
+    box-shadow: 0px 0px 20px 10px rgb(98, 88, 236);
+    transition: 1s;
+    transform: scaleX(1.1);
+}
+#password{
+    border-radius: 20px;
+    color: rgb(100, 45, 0);
+    font-size: 25px;
+    margin-left: 470px;
+    background-color:rgb(74, 62, 235);
+ 
+}
+#password:hover{
+    box-shadow: 0px 0px 20px 10px rgb(98, 88, 236);
+    transition: 1s;
+    transform: scaleX(1.1);
+}
+#click{
+    margin-left:600px;
+    border-radius: 20px;
+    background-color: rgb(74, 62, 235);
+    color: rgb(255, 145, 0);
+}
+#click:hover{
+    transform: scaleX(1.1);
+    transition: 1s;
+    box-shadow: -1px 3px 5px 2px rgb(113, 122, 252);
+}
+#a{
+    background-color: white;
+    border-radius: 10px;
+    color:olivedrab;
+    font-size: 27px;
+    margin-left: 570px;
+    margin-top: 120px;
+}
